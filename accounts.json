@@ -3,13 +3,30 @@
   "updatedAt": "2026-03-29T00:00:00Z",
   "accounts": [
     {
-      "email": "Dev@example.com",
-      "displayName": "Dev",
+      "email": "reseller@example.com",
+      "displayName": "Nama Reseller",
       "role": "reseller",
       "status": "active",
       "salt": "SILWNYjJQ5WFkp0M1AIb3w==",
       "iterations": 120000,
-      "passwordHash": "dev123="
+      "passwordHash": "+F74Vb4E3qjrzkvc/3fCqTvDKVDLl0seFGTQyjdjFRw="
     }
   ]
 }
+
+{
+  "version": 1,
+  "updatedAt": "2026-03-29T00:00:00Z",
+  "accounts": [
+    {
+      "email": "jikamakanpaket@example.com",
+      "displayName": "Nama Reseller",
+      "role": "reseller",
+      "status": "active",
+      "salt": "SILWNYjJQ5WFkp0M1AIb3w==",
+      "iterations": 120000,
+      "passwordHash": "ChangeMe123!"
+    }
+  ]
+}
+
