@@ -14,19 +14,3 @@
   ]
 }
 
-{
-  "version": 1,
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "accounts": [
-    {
-      "email": "jikamakanpaket@example.com",
-      "displayName": "Nama Reseller",
-      "role": "reseller",
-      "status": "active",
-      "salt": "SILWNYjJQ5WFkp0M1AIb3w==",
-      "iterations": 120000,
-      "passwordHash": "ChangeMe123!"
-    }
-  ]
-}
-
