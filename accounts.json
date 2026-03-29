@@ -1,0 +1,15 @@
+{
+  "version": 1,
+"updatedAt": "2026-03-29T00:00:00Z",
+"accounts": [
+  {
+"email": "reseller@example.com",
+"displayName": "Nama Reseller",
+"role": "reseller",
+"status": "active",
+"salt": "SILWNYjJQ5WFkp@M1AIb3w==",
+"iterations": 120000,
+"passwordHash": "+F74Vb4E3qjrzkvc/3fCqTvDKVDL10seFGTQyjdjFRw="
+  }
+]
+}
