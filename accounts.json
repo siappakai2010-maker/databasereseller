@@ -1,16 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T02:36:22.873Z",
+  "updatedAt": "2026-03-31T06:36:45.013Z",
   "accounts": [
-    {
-      "email": "reseller@example.com",
-      "displayName": "Nama Reseller",
-      "role": "reseller",
-      "status": "active",
-      "salt": "SILWNYjJQ5WFkp0M1AIb3w==",
-      "iterations": 120000,
-      "passwordHash": "+F74Vb4E3qjrzkvc/3fCqTvDKVDLl0seFGTQyjdjFRw="
-    },
     {
       "email": "yutuberpabji@gmail.com",
       "displayName": "Developer",
