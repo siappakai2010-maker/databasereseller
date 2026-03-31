@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T10:33:20.091Z",
+  "updatedAt": "2026-03-31T10:33:32.476Z",
   "accounts": [
     {
       "email": "yutuberpabji@gmail.com",
@@ -28,7 +28,7 @@
       "email": "ntek@gmail.com",
       "displayName": "Fantek",
       "role": "reseller",
-      "status": "locked",
+      "status": "active",
       "createdAt": "2026-03-31T10:30:03.907Z",
       "expiresAt": "2026-04-30T10:30:03.907Z",
       "salt": "subX73ZCDZ65BAVmEQurRw==",
