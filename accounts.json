@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T10:07:47.267Z",
+  "updatedAt": "2026-03-31T10:30:03.907Z",
   "accounts": [
     {
       "email": "yutuberpabji@gmail.com",
@@ -23,6 +23,17 @@
       "salt": "VLkSXschAeKIRK87D5gVmA==",
       "iterations": 120000,
       "passwordHash": "12PdJA+z/BCpP14ANfAaPJ3PohGD6+pSolragszL0R8="
+    },
+    {
+      "email": "ntek@gmail.com",
+      "displayName": "Fantek",
+      "role": "reseller",
+      "status": "active",
+      "createdAt": "2026-03-31T10:30:03.907Z",
+      "expiresAt": "2026-04-30T10:30:03.907Z",
+      "salt": "subX73ZCDZ65BAVmEQurRw==",
+      "iterations": 120000,
+      "passwordHash": "APGKOAyVdKr9VFSDD8+U3rh59mewAu6wj9+gk7Z06t4="
     }
   ]
 }
