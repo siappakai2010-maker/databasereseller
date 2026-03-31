@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T06:40:33.204Z",
+  "updatedAt": "2026-03-31T10:07:47.267Z",
   "accounts": [
     {
       "email": "yutuberpabji@gmail.com",
       "displayName": "Developer",
       "role": "reseller",
-      "status": "locked",
+      "status": "active",
       "createdAt": "2026-03-30T16:27:32.382Z",
       "expiresAt": null,
       "salt": "EdrUlkpYKengh5oDXOF3ZQ==",
