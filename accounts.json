@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T10:33:35.435Z",
+  "updatedAt": "2026-03-31T10:34:08.691Z",
   "accounts": [
-    {
-      "email": "yutuberpabji@gmail.com",
-      "displayName": "Developer",
-      "role": "reseller",
-      "status": "active",
-      "createdAt": "2026-03-30T16:27:32.382Z",
-      "expiresAt": null,
-      "salt": "EdrUlkpYKengh5oDXOF3ZQ==",
-      "iterations": 120000,
-      "passwordHash": "X4fa/q505I+JCYiCmrw9VW3KhfSPJr84mujjXqT/8CY="
-    },
     {
       "email": "rafif@gmail.com",
       "displayName": "Rafif",
