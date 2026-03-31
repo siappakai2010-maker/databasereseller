@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T12:28:33.845Z",
+  "updatedAt": "2026-03-31T12:57:07.759Z",
   "accounts": [
     {
       "email": "rafif@gmail.com",
@@ -12,6 +12,17 @@
       "salt": "VLkSXschAeKIRK87D5gVmA==",
       "iterations": 120000,
       "passwordHash": "12PdJA+z/BCpP14ANfAaPJ3PohGD6+pSolragszL0R8="
+    },
+    {
+      "email": "fazlanbangz@gmail.com",
+      "displayName": "tehmanis",
+      "role": "reseller",
+      "status": "active",
+      "createdAt": "2026-03-31T12:57:07.759Z",
+      "expiresAt": "2026-04-30T12:57:07.759Z",
+      "salt": "swziyHKMoJoVFfgEEdVmHw==",
+      "iterations": 120000,
+      "passwordHash": "Hca29WLBK91g6bUYQSJ6X/SzNkLbyQp0thv8OkPGtzM="
     }
   ]
 }
