@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T16:50:44.407Z",
+  "updatedAt": "2026-04-01T20:37:43.650Z",
   "accounts": [
     {
       "email": "rafif@gmail.com",
@@ -56,6 +56,17 @@
       "salt": "cB+LbXTMbqJtQlXsksXZUQ==",
       "iterations": 120000,
       "passwordHash": "FM1OsnkoCDLQ8AaTIjiqBxv3QWS7OGXX5kXDFoHiyiw="
+    },
+    {
+      "email": "azka@gmail.com",
+      "displayName": "Azka",
+      "role": "reseller",
+      "status": "active",
+      "createdAt": "2026-04-01T20:37:43.650Z",
+      "expiresAt": "2026-05-01T20:37:43.650Z",
+      "salt": "MD6myD/Vu9QtKoCx0nT82g==",
+      "iterations": 120000,
+      "passwordHash": "f67caShrI7UaD/+OY2pH8lkOyvBs4qfr7hzBqGnn7Mg="
     }
   ]
 }
