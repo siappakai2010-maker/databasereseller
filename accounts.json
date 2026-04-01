@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31T12:57:07.759Z",
+  "updatedAt": "2026-04-01T02:20:18.155Z",
   "accounts": [
     {
       "email": "rafif@gmail.com",
@@ -23,6 +23,17 @@
       "salt": "swziyHKMoJoVFfgEEdVmHw==",
       "iterations": 120000,
       "passwordHash": "Hca29WLBK91g6bUYQSJ6X/SzNkLbyQp0thv8OkPGtzM="
+    },
+    {
+      "email": "chamdanlatif92@gmail.com",
+      "displayName": "GERIL",
+      "role": "reseller",
+      "status": "active",
+      "createdAt": "2026-04-01T02:20:18.155Z",
+      "expiresAt": "2026-05-01T02:20:18.155Z",
+      "salt": "+A1T+/PaqR6jQr+JA8c1JQ==",
+      "iterations": 120000,
+      "passwordHash": "N7JfYQ8vIB3u3iOFbeLfdETIoFX00qR/MBTqOvKlgds="
     }
   ]
 }
