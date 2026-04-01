@@ -1,72 +1,61 @@
 {
-    "version":  1,
-    "updatedAt":  "2026-04-01T15:09:39.299Z",
-    "accounts":  [
-                     {
-                         "email":  "rafif@gmail.com",
-                         "displayName":  "Rafif",
-                         "role":  "reseller",
-                         "status":  "active",
-                         "createdAt":  "2026-03-31T02:36:22.873Z",
-                         "expiresAt":  "2026-04-30T02:36:22.873Z",
-                         "salt":  "VLkSXschAeKIRK87D5gVmA==",
-                         "iterations":  120000,
-                         "passwordHash":  "12PdJA+z/BCpP14ANfAaPJ3PohGD6+pSolragszL0R8="
-                     },
-                     {
-                         "email":  "fazlanbangz@gmail.com",
-                         "displayName":  "tehmanis",
-                         "role":  "reseller",
-                         "status":  "active",
-                         "createdAt":  "2026-03-31T12:57:07.759Z",
-                         "expiresAt":  "2026-04-30T12:57:07.759Z",
-                         "salt":  "swziyHKMoJoVFfgEEdVmHw==",
-                         "iterations":  120000,
-                         "passwordHash":  "Hca29WLBK91g6bUYQSJ6X/SzNkLbyQp0thv8OkPGtzM="
-                     },
-                     {
-                         "email":  "chamdanlatif92@gmail.com",
-                         "displayName":  "GERIL",
-                         "role":  "reseller",
-                         "status":  "locked",
-                         "createdAt":  "2026-04-01T02:20:18.155Z",
-                         "expiresAt":  "2026-05-01T02:20:18.155Z",
-                         "salt":  "+A1T+/PaqR6jQr+JA8c1JQ==",
-                         "iterations":  120000,
-                         "passwordHash":  "N7JfYQ8vIB3u3iOFbeLfdETIoFX00qR/MBTqOvKlgds="
-                     },
-                     {
-                         "email":  "iyanngunz@gmail.com",
-                         "displayName":  "rian",
-                         "role":  "reseller",
-                         "status":  "active",
-                         "createdAt":  "2026-04-01T12:33:46.619Z",
-                         "expiresAt":  "2026-05-01T12:33:46.619Z",
-                         "salt":  "y3VaQrkMmrJ156CirAYC7Q==",
-                         "iterations":  120000,
-                         "passwordHash":  "EyixSa99z+2EWhWtJr0jdG6aOj/67/MxqrtWOuqFVmY="
-                     },
-                     {
-                         "email":  "martua@gmail.com",
-                         "displayName":  "martua",
-                         "role":  "reseller",
-                         "status":  "active",
-                         "createdAt":  "2026-04-01T12:47:31.388Z",
-                         "expiresAt":  "2026-05-01T12:47:31.388Z",
-                         "salt":  "JnPSJO/J6i3rSPxxXl3dSw==",
-                         "iterations":  120000,
-                         "passwordHash":  "GgjLmC3vXVfVcC22GbF0+0Rq0QHf2bl75iI1+e+RIng="
-                     },
-                     {
-                         "email":  "dev@gmail.com",
-                         "displayName":  "Developer",
-                         "role":  "reseller",
-                         "status":  "active",
-                         "createdAt":  "2026-04-01T15:09:39.299Z",
-                         "expiresAt":  null,
-                         "salt":  "cB+LbXTMbqJtQlXsksXZUQ==",
-                         "iterations":  120000,
-                         "passwordHash":  "FM1OsnkoCDLQ8AaTIjiqBxv3QWS7OGXX5kXDFoHiyiw="
-                     }
-                 ]
+  "version": 1,
+  "updatedAt": "2026-04-01T16:50:44.407Z",
+  "accounts": [
+    {
+      "email": "rafif@gmail.com",
+      "displayName": "Rafif",
+      "role": "reseller",
+      "status": "active",
+      "createdAt": "2026-03-31T02:36:22.873Z",
+      "expiresAt": "2026-04-30T02:36:22.873Z",
+      "salt": "VLkSXschAeKIRK87D5gVmA==",
+      "iterations": 120000,
+      "passwordHash": "12PdJA+z/BCpP14ANfAaPJ3PohGD6+pSolragszL0R8="
+    },
+    {
+      "email": "fazlanbangz@gmail.com",
+      "displayName": "tehmanis",
+      "role": "reseller",
+      "status": "active",
+      "createdAt": "2026-03-31T12:57:07.759Z",
+      "expiresAt": "2026-04-30T12:57:07.759Z",
+      "salt": "swziyHKMoJoVFfgEEdVmHw==",
+      "iterations": 120000,
+      "passwordHash": "Hca29WLBK91g6bUYQSJ6X/SzNkLbyQp0thv8OkPGtzM="
+    },
+    {
+      "email": "iyanngunz@gmail.com",
+      "displayName": "rian",
+      "role": "reseller",
+      "status": "active",
+      "createdAt": "2026-04-01T12:33:46.619Z",
+      "expiresAt": "2026-05-01T12:33:46.619Z",
+      "salt": "y3VaQrkMmrJ156CirAYC7Q==",
+      "iterations": 120000,
+      "passwordHash": "EyixSa99z+2EWhWtJr0jdG6aOj/67/MxqrtWOuqFVmY="
+    },
+    {
+      "email": "martua@gmail.com",
+      "displayName": "martua",
+      "role": "reseller",
+      "status": "active",
+      "createdAt": "2026-04-01T12:47:31.388Z",
+      "expiresAt": "2026-05-01T12:47:31.388Z",
+      "salt": "JnPSJO/J6i3rSPxxXl3dSw==",
+      "iterations": 120000,
+      "passwordHash": "GgjLmC3vXVfVcC22GbF0+0Rq0QHf2bl75iI1+e+RIng="
+    },
+    {
+      "email": "dev@gmail.com",
+      "displayName": "Developer",
+      "role": "reseller",
+      "status": "active",
+      "createdAt": "2026-04-01T15:09:39.299Z",
+      "expiresAt": null,
+      "salt": "cB+LbXTMbqJtQlXsksXZUQ==",
+      "iterations": 120000,
+      "passwordHash": "FM1OsnkoCDLQ8AaTIjiqBxv3QWS7OGXX5kXDFoHiyiw="
+    }
+  ]
 }
