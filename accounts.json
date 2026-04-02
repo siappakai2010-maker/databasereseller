@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01T23:30:18.277Z",
+  "updatedAt": "2026-04-02T03:46:36.807Z",
   "accounts": [
     {
       "email": "rafif@gmail.com",
@@ -78,6 +78,17 @@
       "salt": "XQz5Dypaqg26fBpIVC2fWA==",
       "iterations": 120000,
       "passwordHash": "faNRHz0LSujWe0Sr41D2YH/D4EpA422MOuyrOoHIad4="
+    },
+    {
+      "email": "rifkiwandi5@gmail.com",
+      "displayName": "RIFKI WANDI APRIYAN",
+      "role": "reseller",
+      "status": "active",
+      "createdAt": "2026-04-02T03:46:36.807Z",
+      "expiresAt": "2026-05-02T03:46:36.807Z",
+      "salt": "9Z/GZFNT9gOSoaLtT8oh4w==",
+      "iterations": 120000,
+      "passwordHash": "olYRvLSFKNk6//1MGASeNEAuED0MXF/3hvRr2qDRZ68="
     }
   ]
 }
