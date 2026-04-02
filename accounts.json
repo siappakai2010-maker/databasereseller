@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T03:46:36.807Z",
+  "updatedAt": "2026-04-02T04:24:07.885Z",
   "accounts": [
     {
       "email": "rafif@gmail.com",
@@ -67,17 +67,6 @@
       "salt": "MD6myD/Vu9QtKoCx0nT82g==",
       "iterations": 120000,
       "passwordHash": "f67caShrI7UaD/+OY2pH8lkOyvBs4qfr7hzBqGnn7Mg="
-    },
-    {
-      "email": "zian.16267@resmik.app",
-      "displayName": "zian",
-      "role": "reseller",
-      "status": "active",
-      "createdAt": "2026-04-01T23:30:18.198Z",
-      "expiresAt": "2026-05-01T23:30:18.198Z",
-      "salt": "XQz5Dypaqg26fBpIVC2fWA==",
-      "iterations": 120000,
-      "passwordHash": "faNRHz0LSujWe0Sr41D2YH/D4EpA422MOuyrOoHIad4="
     },
     {
       "email": "rifkiwandi5@gmail.com",
