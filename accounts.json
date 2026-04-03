@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T02:05:31.746Z",
+  "updatedAt": "2026-04-03T02:14:41.426Z",
   "accounts": [
     {
       "email": "rafif@gmail.com",
@@ -39,7 +39,7 @@
       "email": "martua@gmail.com",
       "displayName": "martua",
       "role": "reseller",
-      "status": "locked",
+      "status": "active",
       "createdAt": "2026-04-01T12:47:31.388Z",
       "expiresAt": "2026-05-01T12:47:31.388Z",
       "salt": "JnPSJO/J6i3rSPxxXl3dSw==",
