@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-04T15:06:32.295Z",
+  "updatedAt": "2026-04-04T15:20:47.160Z",
   "accounts": [
     {
       "email": "rafif@gmail.com",
@@ -67,6 +67,17 @@
       "salt": "h+cTrdlSvUHwYie5cE+jBg==",
       "iterations": 120000,
       "passwordHash": "lzrAAOtj0xqkSfsa61zxP1mAO1qrtM6BmyHlbouSXxU="
+    },
+    {
+      "email": "iyanngunz@gmail.com",
+      "displayName": "rian",
+      "role": "reseller",
+      "status": "active",
+      "createdAt": "2026-04-04T15:20:47.160Z",
+      "expiresAt": "2026-05-04T15:20:47.160Z",
+      "salt": "epodGDbQJQVx9vYpBKwu6g==",
+      "iterations": 120000,
+      "passwordHash": "wxdLGjekDyGYKnzI+9W72pYiydMsq28Pc8GOOlep6jQ="
     }
   ]
 }
