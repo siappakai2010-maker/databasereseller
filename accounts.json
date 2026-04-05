@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-05T09:54:36.497Z",
+  "updatedAt": "2026-04-05T15:15:53.243Z",
   "accounts": [
     {
       "email": "rafif@gmail.com",
@@ -78,17 +78,6 @@
       "salt": "epodGDbQJQVx9vYpBKwu6g==",
       "iterations": 120000,
       "passwordHash": "wxdLGjekDyGYKnzI+9W72pYiydMsq28Pc8GOOlep6jQ="
-    },
-    {
-      "email": "fazlanx08@gmail.com",
-      "displayName": "turex",
-      "role": "reseller",
-      "status": "active",
-      "createdAt": "2026-04-05T09:54:36.497Z",
-      "expiresAt": "2026-05-05T09:54:36.497Z",
-      "salt": "04pze8FdACrQ4fwK+O9XSQ==",
-      "iterations": 120000,
-      "passwordHash": "tQWALAAaxC1kbvIOgv7KBdFxY9QdWyuOjHurFDj3tl4="
     }
   ]
 }
