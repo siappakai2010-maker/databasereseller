@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-05T15:15:53.243Z",
+  "updatedAt": "2026-04-05T15:16:13.357Z",
   "accounts": [
     {
       "email": "rafif@gmail.com",
@@ -56,17 +56,6 @@
       "salt": "9Z/GZFNT9gOSoaLtT8oh4w==",
       "iterations": 120000,
       "passwordHash": "olYRvLSFKNk6//1MGASeNEAuED0MXF/3hvRr2qDRZ68="
-    },
-    {
-      "email": "azirm007@gmail.com",
-      "displayName": "tia888",
-      "role": "reseller",
-      "status": "active",
-      "createdAt": "2026-04-03T11:15:04.126Z",
-      "expiresAt": "2026-04-06T16:59:59.000Z",
-      "salt": "h+cTrdlSvUHwYie5cE+jBg==",
-      "iterations": 120000,
-      "passwordHash": "lzrAAOtj0xqkSfsa61zxP1mAO1qrtM6BmyHlbouSXxU="
     },
     {
       "email": "iyanngunz@gmail.com",
