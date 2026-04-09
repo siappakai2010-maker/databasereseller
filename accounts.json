@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-05T15:16:22.843Z",
+  "updatedAt": "2026-04-09T15:27:49.365Z",
   "accounts": [
     {
       "email": "rafif@gmail.com",
@@ -56,6 +56,17 @@
       "salt": "9Z/GZFNT9gOSoaLtT8oh4w==",
       "iterations": 120000,
       "passwordHash": "olYRvLSFKNk6//1MGASeNEAuED0MXF/3hvRr2qDRZ68="
+    },
+    {
+      "email": "mewingsigma880@gmail.com",
+      "displayName": "zhshhs",
+      "role": "reseller",
+      "status": "active",
+      "createdAt": "2026-04-09T15:27:49.365Z",
+      "expiresAt": "2026-05-09T15:27:49.365Z",
+      "salt": "nQdVXaBcgRdkGxOj1QKUUw==",
+      "iterations": 120000,
+      "passwordHash": "kq+dWmpy370H8VsuIBOiF155NUuXs6Wk/Pmc/djbmd0="
     }
   ]
 }
